@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SARATH V S
 - 👀 I’m interested in web development,video editing
-- 🌱 I’m currently learning data analytics
+- 🌱 I’m currently learning data analytics,font end 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sarathkichu2002@gmail.com
 - 😄 Pronouns: he
